@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi👋, I'M Praveen Kumar B M
+A passionate developer from india
 # 💫 About Me:
-A passionate developer from india<br><br>i am currently working on Java backend developer
+<br><br>i am currently working on Java backend developer
 
 
 ## 🌐 Socials:
